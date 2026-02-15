@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Scientist;Python+Developer;Power+BI+%7C+Tableau;Machine+Learning+Enthusiast&center=true&width=500&height=50">
+</p>
+
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mayukani Tayde</h1>
 <h3 align="center">Aspiring Data Scientist | Python | Power BI | Tableau | SQL</h3>
