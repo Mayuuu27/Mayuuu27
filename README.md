@@ -14,7 +14,7 @@
 </div>
 
 ## 🚀 About Me
-<img src= "https://github.com/user-attachments/assets/304453a6-bd88-4a52-8bf4-0fadf88088fa" align="right" alt="coding girl" width="400" style="margin-left:100px; margin-bottom:10px;"/>
+<img src= "https://github.com/user-attachments/assets/304453a6-bd88-4a52-8bf4-0fadf88088fa" align="right" alt="coding girl" width="400" style="margin-left:1000px; margin-bottom:10px;"/>
 
 <p align="justify">Aspiring Data Scientist with a strong foundation in Artificial Intelligence and Data Analytics, focused on applying data-driven approaches to solve real-world problems. Proficient in Python, SQL, Power BI, and Tableau, with practical experience in data cleaning, exploratory data analysis, visualization, and dashboard development. Experienced in working with structured datasets to extract actionable insights and present them effectively for decision-making. Continuously expanding knowledge in machine learning, statistical techniques, and predictive modeling while building hands-on projects to strengthen technical and analytical skills. Passionate about leveraging data to improve efficiency, uncover trends, and support strategic business decisions.<\p>
 
