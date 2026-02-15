@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<img width="1128" height="739" alt="image" src="https://github.com/user-attachments/assets/60534458-9703-4d76-aede-107615cd1bf6" /><h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Mayukani+Tayde;Aspiring+Data+Scientist;Python+Developer;Power+BI+%7C+Tableau;AI+%26+Machine+Learning+Enthusiast"alt="Typing SVG" />
 </h1>
 
@@ -15,6 +15,9 @@
 </div>
 
 ## 🚀 About Me
+<img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" align="right" alt="coding girl" width="400"/>
+
+
 - 🎓 BCA (AI & Data Analytics)
 - 📊 Interested in Data Science & Machine Learning
 - 🐍 Python (Intermediate)
