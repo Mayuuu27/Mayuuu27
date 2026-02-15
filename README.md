@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Mayukani=Tayde;Aspiring+Data+Scientist;Python=Developer;SQL;Power+BI+|+Tableu;AI%26Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Mayukani+Tayde;Aspiring+Data+Scientist;Python+Developer;SQL+Developer;Power+BI+|+Tableau;AI+%26+Machine+Learning" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*eTg3araLLlU1QL6C6hJg5w.gif" alt="Data Science Gif" width="700"/>
