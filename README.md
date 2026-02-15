@@ -1,29 +1,18 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=220&section=header&text=Hello,%20I'm%20Mayukani%20Tayde&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Chandan+D.+Chaudhari;Data+%26+AI+Strategy+Consultant;Business+Transformation+Mentor;L%26D+Professional" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Scientist;Python+Developer;Power+BI+%7C+Tableau;Machine+Learning+Enthusiast&center=true&width=500&height=50">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*eTg3araLLlU1QL6C6hJg5w.gif" alt="Data Science Gif" width="700"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mayukani Tayde</h1>
-<h3 align="center">Aspiring Data Scientist | Python | Power BI | Tableau | SQL</h3>
+<div align="center">
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandan_Chaudhari-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
+[![Email](https://img.shields.io/badge/Gmail-chaudhari.chandan22-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:chaudhari.chandan22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-chandanc5525-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/chandanc5525)
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/mayukanitayde">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:myukanitayde9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/Mayuuu27">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
+</div>
 
 ## 🚀 About Me
 - 🎓 BCA (AI & Data Analytics)
