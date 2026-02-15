@@ -14,12 +14,6 @@
 </div>
 
 ## 🚀 About Me
-<img src="https://github.com/user-attachments/assets/304453a6-bd88-4a52-8bf4-0fadf88088fa"
-align="right"
-alt="coding girl"
-width="400"
-style="margin-left:40px; margin-bottom:10px;"/>
-
 <br>
 
 <img src="https://github.com/user-attachments/assets/304453a6-bd88-4a52-8bf4-0fadf88088fa"
