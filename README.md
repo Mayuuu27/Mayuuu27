@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Mayukani%20Tayde&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=220&section=header&text=Hello,%20I'm%20Mayukani%20Tayde&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Data+Scientist;Python+Developer;Power+BI+%7C+Tableau;Machine+Learning+Enthusiast&center=true&width=500&height=50">
