@@ -31,6 +31,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&layout=compact)
 
+![Profile views](https://komarev.com/ghpvc/?username=Mayuuu27&color=blue)
 ---
 
 ⭐ Projects coming soon...
