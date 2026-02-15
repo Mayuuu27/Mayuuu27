@@ -13,13 +13,12 @@
 
 ## 🚀 About Me
 <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" align="right" alt="coding girl" width="400"/>
+Aspiring Data Scientist with a strong foundation in Artificial Intelligence and Data Analytics, focused on applying data-driven approaches to solve real-world problems. Proficient in Python, SQL, Power BI, and Tableau, with practical experience in data cleaning, exploratory data analysis, visualization, and dashboard development. Experienced in working with structured datasets to extract actionable insights and present them effectively for decision-making. Continuously expanding knowledge in machine learning, statistical techniques, and predictive modeling while building hands-on projects to strengthen technical and analytical skills. Passionate about leveraging data to improve efficiency, uncover trends, and support strategic business decisions.
 
-
-- 🎓 BCA (AI & Data Analytics)
-- 📊 Interested in Data Science & Machine Learning
-- 🐍 Python (Intermediate)
-- 📈 Power BI & Tableau Dashboard Developer
-- 🎯 Preparing for placements
+* 🎯 **Core Focus:** Data Science, Data Analytics, Machine Learning, and Business Intelligence  
+* 🧠 **Technical Skills:** Python, SQL, Power BI, Tableau, data preprocessing, exploratory data analysis, and visualization techniques  
+* 📊 **Analytical Approach:** Applying data-driven methods to identify patterns, generate insights, and support informed decision-making  
+* 🚀 **Professional Growth:** Actively developing real-world projects to strengthen problem-solving, analytical thinking, and predictive modeling skills
 
 ---
 
