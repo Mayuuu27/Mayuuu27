@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandan_Chaudhari-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-chaudhari-7460215a/)
-[![Email](https://img.shields.io/badge/Gmail-chaudhari.chandan22-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:chaudhari.chandan22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-chandanc5525-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/chandanc5525)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayukani_Tayde-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayukanitayde/)
+[![Email](https://img.shields.io/badge/Gmail-Mayukani_Tayde-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:myukanitayde9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mayuuu27-181717?style=for-the-flat&logo=github&logoColor=white)](https://github.com/Mayuuu27)
 
 </div>
 
