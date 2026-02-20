@@ -21,14 +21,25 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mayuuu27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)
+<div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Mayuuu27&theme=rose_pine&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Mayuuu27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&theme=rose_pine&hide_border=false&layout=compact)
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mayuuu27&theme=rose_pine&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&theme=rose_pine&hide_border=false&layout=compact" />
+
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Mayuuu27&color=blue)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Mayuuu27&color=blue" />
+</div>
+
 
 ⭐ Projects coming soon...
