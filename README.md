@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayuuu27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mayuuu27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800" />
 
 <br/>
 
@@ -31,15 +31,10 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&theme=rose_pine&hide_border=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&theme=rose_pine&hide_border=false&layout=compact&cache_seconds=1800" />
 
 </div>
 
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mayuuu27&color=blue" />
-</div>
 
 
 ⭐ Projects coming soon...
