@@ -35,5 +35,6 @@
 </div>
 
 ### 🔝 Top Contributed Repo
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=Mayuuu27&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
-
+</div>
