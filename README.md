@@ -13,40 +13,24 @@
 
 </div>
 
-## 🚀 About Me
-<br>
+# 💫 About Me:
+🔭 I’m currently working on Data Analytics and Dashboard projects using SQL, Power BI, and Advanced Excel.<br><br>👯 I’m looking to collaborate on Data Analysis, Business Intelligence, and Dashboard development projects.<br><br>🤝 I’m looking for help with improving Advanced SQL, DAX, and Data Modeling skills.<br><br>🌱 I’m currently learning Data Science and Machine Learning as part of my ongoing Master’s program in Data Analytics & Data Science.<br><br>💬 Ask me about SQL queries (JOIN, GROUP BY), Data Cleaning, KPI Dashboards, and Power BI projects.<br><br>⚡ Fun fact: I enjoy transforming raw business data into meaningful insights that support smarter decision-making.
 
-<img src="https://github.com/user-attachments/assets/304453a6-bd88-4a52-8bf4-0fadf88088fa"
-align="right" width="400" style="margin-left:40px;"/>
 
-<p align="justify">Aspiring Data Scientist with a strong foundation in Artificial Intelligence and Data Analytics, focused on applying data-driven approaches to solve real-world problems. Proficient in Python, SQL, Power BI, and Tableau, with practical experience in data cleaning, exploratory data analysis, visualization, and dashboard development. Experienced in working with structured datasets to extract actionable insights and present them effectively for decision-making. Continuously expanding knowledge in machine learning, statistical techniques, and predictive modeling while building hands-on projects to strengthen technical and analytical skills. Passionate about leveraging data to improve efficiency, uncover trends, and support strategic business decisions.</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.mayuuu.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayukanitayde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myukanitayde9@gmail.com) 
 
-* 🎯 **Core Focus:** Data Science, Data Analytics, Machine Learning, and Business Intelligence  
-* 🧠 **Technical Skills:** Python, SQL, Power BI, Tableau, data preprocessing, exploratory data analysis, and visualization techniques  
-* 📊 **Analytical Approach:** Applying data-driven methods to identify patterns, generate insights, and support informed decision-making  
-* 🚀 **Professional Growth:** Actively developing real-world projects to strengthen problem-solving, analytical thinking, and predictive modeling skills
-
----
-
-## 🛠 Tech Stack
-
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-
-### Data Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-
-### Web Basics
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mayuuu27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mayuuu27&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mayuuu27&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mayuuu27&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuuu27&layout=compact)
